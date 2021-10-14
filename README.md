@@ -31,4 +31,4 @@ CheersLand has implemented its MVP on Binance Smart Chain and verified its busin
 Here’s our future development:  
 - Build2Earn: CheersLand will attract game builders to list their games with CheersLand API and use the same module around the fourth quarter.
 - NFT Market for trading in-game items.
-3.Optimistic Governance Module for CheersLand DAO and holders.
+- Optimistic Governance Module for CheersLand DAO and holders.
